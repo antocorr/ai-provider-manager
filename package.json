@@ -18,7 +18,8 @@
     "files": ["dist"],
     "scripts": {
         "build": "tsup",
-        "dev": "tsup --watch"
+        "dev": "tsup --watch",
+        "prepare": "npm run build"
     },
     "devDependencies": {
         "@types/node": "^20.14.0",
