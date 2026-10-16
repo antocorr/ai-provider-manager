@@ -307,4 +307,4 @@ src/
 
 ## License
 
-MIT
+MIT © 2026 antocorr — see [LICENSE](./LICENSE).
